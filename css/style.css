@@ -1,0 +1,20 @@
+body {background-color: black;
+align-content:center;}
+h1 {color:white;
+font-family:Verdana;
+font-weight:normal;
+text-align:center;}
+p {color:gray;
+font-family:Verdana;
+font-weight:normal;
+text-align:center;
+font-size:21px;}
+video{object-fit: contain;
+object-position: center;}
+.cta p{color:aquamarine;
+font-size:16px;}
+h2{color:white;
+  font-family:Verdana;
+  font-weight:300;
+font-size:42px;
+text-align:center;}
